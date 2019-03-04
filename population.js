@@ -125,7 +125,7 @@ class App extends React.Component {
     render() {
       return (
         <div className='container-fluid'>
-          <nav className='navbar navbar-expand-md navbar-light bg-light fixed-top justify-content-md-center'>
+          <nav className='navbar navbar-expand-md navbar-dark bg-dark fixed-top justify-content-md-center'>
             <a className='navbar-brand' href='#'>都道府県別総人口推移</a>
           </nav>
           <h4 className='mt-4 pt-5'><span className='border border-dark p-2'>都道府県</span></h4>
